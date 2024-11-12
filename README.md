@@ -3,7 +3,7 @@
 
 Projeto para entrega de desafio de projeto no Bootcamp de Springboot da DIO (Digital Innovation One).
 
-Nesse projeto fiz uma implementação simples 
+Nesse projeto fiz uma implementação simples em Java, onde chamo os métodos do Iphone que realizam uma saída no terminal/console.
 
 ### Modelagem do Componente Iphone
 
